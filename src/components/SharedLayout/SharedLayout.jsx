@@ -10,7 +10,7 @@ const StyledNavLink = styled(NavLink)`
   font-weight: 700;
   font-family: 'Montserrat', sans-serif;
   &.active {
-    color: yellow;
+    color: red;
   }
 `;
 

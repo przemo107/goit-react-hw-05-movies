@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_KEY = '3a711e6a1a38cf2c1f9aa15317eef8a6';
+const API_KEY = '246fe646925793956659bd1a7e37c5b0';
 
 const searchMovie = async query => {
   const response = await axios.get(
